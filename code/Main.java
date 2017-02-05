@@ -9,7 +9,7 @@ import code.sensors.interfaces.ISensor;
 import code.sensors.interfaces.SensorUpdateListener;
 
 public class Main {
-	/*public static void function() throws GPIOCreationFailedException {
+	public static void function() throws GPIOCreationFailedException {
 		FlexSensor fs = new FlexSensor(7);
 		GPIOPin gpio = new GPIOPin(6,GPIOMode.OUTPUT);
 		System.out.println("Starting looper!");
